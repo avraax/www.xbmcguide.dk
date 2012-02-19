@@ -15,7 +15,7 @@ namespace www.xbmcguide.dk.Controllers
             var searchAutoComplete = new AutoCompleteService();
             var searchResult = searchAutoComplete.GetSearchResult(q);
 
-            return Json(searchResult, JsonRequestBehavior.AllowGet);
+            return Json(searchResult);
         }
     }
 }

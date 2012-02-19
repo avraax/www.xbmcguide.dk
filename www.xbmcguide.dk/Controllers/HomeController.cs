@@ -85,7 +85,7 @@ namespace www.xbmcguide.dk.Controllers
             return _newsArticlesService.DeleteNewsArticle(id) ? (ActionResult)RedirectToAction("Index") : View();
         }
 
-        public ActionResult Details(int id)
+        public ActionResult Details(int id, string articleHeading)
         {
             TblNewsArticles newsArticle = _newsArticlesService.GetNewsArticle(id);
             return View(newsArticle);

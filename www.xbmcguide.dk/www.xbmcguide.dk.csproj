@@ -133,6 +133,7 @@
     <Compile Include="Classes\AutoCompleteService.cs" />
     <Compile Include="Controllers\AutoCompleteController.cs" />
     <Compile Include="Controllers\MenuController.cs" />
+    <Compile Include="Helpers\StringHelpers.cs" />
     <Compile Include="Interfaces\IAutoCompleteService.cs" />
     <Compile Include="Interfaces\INewsArticlesService.cs" />
     <Compile Include="Classes\NewsArticlesService.cs" />

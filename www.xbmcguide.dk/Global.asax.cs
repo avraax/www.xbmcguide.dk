@@ -21,9 +21,9 @@ namespace www.xbmcguide.dk
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
-            routes.MapRoute("home", 
-                            "artikel/{id}", 
-                            new { controller = "Home", action = "Details", articleName = UrlParameter.Optional }
+            routes.MapRoute("home",
+                            "artikel/{articleHeading}-{id}", 
+                            new { controller = "Home", action = "Details", articleHeading = UrlParameter.Optional }
                            );
             routes.MapRoute(
                 "Default", // Route name
