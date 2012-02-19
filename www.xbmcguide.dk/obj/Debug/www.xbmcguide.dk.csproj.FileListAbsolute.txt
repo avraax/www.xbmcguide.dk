@@ -1,0 +1,12 @@
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\www.xbmcguide.dk.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\www.xbmcguide.dk.pdb
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\CKEditor.NET.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\CKFinder.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\dotless.Core.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\Elmah.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\EntityFramework.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\CKFinder.pdb
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\EntityFramework.xml
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\obj\Debug\www.xbmcguide.dk.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\obj\Debug\www.xbmcguide.dk.pdb

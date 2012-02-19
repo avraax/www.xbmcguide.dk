@@ -1,0 +1,10 @@
+﻿@model IEnumerable<www.xbmcguide.dk.Menu>
+<nav>
+    <ul id="menu">
+    <li>@Html.ActionLink("Forside", "Index", "Home")</li>
+    @foreach (var item in Model)
+    {
+        <li>@Html.ActionLink(item.Name, "Details", "Home", new { id = item.NewsArticleId }, null)</li>
+    }
+    </ul>
+</nav>

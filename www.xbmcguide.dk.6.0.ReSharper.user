@@ -1,0 +1,241 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Javascript/d:ckfinder/f:config.js" caret="469" fromTop="13" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Javascript/d:ckfinder/f:ckfinder.js" caret="16808" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Properties/f:AssemblyInfo.cs" caret="855" fromTop="18" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Javascript/d:ckeditor/f:config.js" caret="326" fromTop="10" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/f:Site.css" caret="679" fromTop="17" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/f:Global.asax.cs" caret="0" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Account/f:Register.cshtml" caret="0" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Javascript/d:ckfinder/f:config.ascx" caret="951" fromTop="25" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/f:Web.config" caret="868" fromTop="15" />
+      <File id="2756E1B9-215E-43E1-B5E3-181270B2EB1D/d:App_Browsers/f:w3cvalidator.browser" caret="0" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Delete.cshtml" caret="39" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Models/f:AccountModels.cs" caret="213" fromTop="9" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/f:XbmcGuide.dbml.layout" caret="0" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:MenuController.cs" caret="476" fromTop="17" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Interfaces/f:INewsArticlesService.cs" caret="287" fromTop="8" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/f:XbmcGuide.designer.cs" caret="12362" fromTop="16" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/f:XbmcGuide.cs" caret="0" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Classes/f:NewsArticlesService.cs" caret="1233" fromTop="16" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Layout.cshtml" caret="686" fromTop="19" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:Error.cshtml" caret="152" fromTop="8" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_LogOnPartial.cshtml" caret="360" fromTop="9" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="2596" fromTop="16" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Account/f:ChangePassword.cshtml" caret="543" fromTop="16" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:AccountController.cs" caret="3101" fromTop="6" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Account/f:LogOn.cshtml" caret="0" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Create.cshtml" caret="277" fromTop="8" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Edit.cshtml" caret="386" fromTop="8" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="228" fromTop="9" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Menu.cshtml" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Javascript/d:ckfinder/f:config.ascx" caret="951" fromTop="25" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="294" fromTop="14" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="39" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="294" fromTop="4" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="539" fromTop="31" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="612" fromTop="13" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="504" fromTop="14" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="407" fromTop="14" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="539" fromTop="15" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="539" fromTop="10" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="539" fromTop="10" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="539" fromTop="23" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="539" fromTop="18" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="537" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="501" fromTop="22" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="380" fromTop="18" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="149" fromTop="6" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Menu.cshtml" caret="298" fromTop="9" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="4" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="2742" fromTop="27" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="315" fromTop="11" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="2742" fromTop="12" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:MenuController.cs" caret="495" fromTop="16" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="2596" fromTop="16" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Menu.cshtml" caret="266" fromTop="5" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Layout.cshtml" caret="688" fromTop="19" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Classes/f:NewsArticlesService.cs" caret="1317" fromTop="16" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:MenuController.cs" caret="456" fromTop="17" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Menu.cshtml" caret="74" fromTop="3" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="News" priority="59" />
+      <Item value="ModelState" priority="31" />
+      <Item value="XbmcGuideDataContext" priority="53" />
+      <Item value="List" priority="31" />
+      <Item value="News`0" priority="31" />
+      <Item value="MultiSelectList`0" priority="31" />
+      <Item value="NewsArticles`0" priority="84" />
+      <Item value="var" priority="31" />
+      <Item value="xbmcGuideDb" priority="31" />
+      <Item value="NewsArticles" priority="117" />
+      <Item value="foreach" priority="31" />
+      <Item value="ModelState`0" priority="31" />
+      <Item value="Models" priority="53" />
+      <Item value="NewsArticlesModel`0" priority="53" />
+      <Item value="www" priority="95" />
+      <Item value="xbmcguide" priority="80" />
+      <Item value="dk" priority="80" />
+      <Item value="XbmcGuideDataContext`0" priority="26" />
+      <Item value="Classes" priority="22" />
+      <Item value="newsArticlesService" priority="32" />
+      <Item value="DbNewsArticles`0" priority="241" />
+      <Item value="_newsArticlesService" priority="159" />
+      <Item value="_xbmcDatabase" priority="95" />
+      <Item value="newsArticle" priority="63" />
+      <Item value="return" priority="63" />
+      <Item value="dbNewsArticle" priority="95" />
+      <Item value="if" priority="31" />
+      <Item value="View`0" priority="95" />
+      <Item value="ActionResult`0" priority="65" />
+      <Item value="TblNewsArticles`0" priority="143" />
+      <Item value="ViewNewsArticles`0" priority="123" />
+      <Item value="DateTime`0" priority="63" />
+      <Item value="new" priority="31" />
+      <Item value="RouteValueDictionary" priority="28" />
+      <Item value="ChangePassword" priority="32" />
+      <Item value="Account" priority="32" />
+      <Item value="Authorize" priority="31" />
+      <Item value="CreateInstanceFromVirtualPath`0" priority="29" />
+      <Item value="Context" priority="31" />
+      <Item value="CKEditor" priority="92" />
+      <Item value="NET" priority="80" />
+      <Item value="Html" priority="29" />
+      <Item value="ValidateInput" priority="31" />
+      <Item value="false" priority="31" />
+      <Item value="public" priority="95" />
+      <Item value="indexer" priority="31" />
+      <Item value="using" priority="30" />
+      <Item value="MenuItem`0" priority="22" />
+      <Item value="item" priority="31" />
+      <Item value="_Menu" priority="60" />
+      <Item value="MenuItems`0" priority="80" />
+      <Item value="ViewData" priority="63" />
+      <Item value="this" priority="31" />
+      <Item value="Model" priority="63" />
+      <Item value="Menu`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:www.xbmcguide.dk.XbmcGuideDataContext">
+      <Item value="NewsArticles" priority="27" />
+      <Item value="DbNewsArticles" priority="109" />
+      <Item value="TblNewsArticles" priority="27" />
+      <Item value="ViewNewsArticles" priority="27" />
+      <Item value="MenuItems" priority="54" />
+      <Item value="Menus" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Linq.Table`1">
+      <Item value="ToList`1" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:www.xbmcguide.dk.NewsArticles">
+      <Item value="Body" priority="50" />
+      <Item value="Heading" priority="50" />
+      <Item value="ExternalLink" priority="27" />
+      <Item value="AutherName" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="a" priority="5" />
+      <Item value="href" priority="5" />
+      <Item value="table" priority="5" />
+      <Item value="hr" priority="5" />
+      <Item value="target" priority="6" />
+      <Item value="h1" priority="5" />
+      <Item value="div" priority="18" />
+      <Item value="style" priority="5" />
+      <Item value="h2" priority="5" />
+      <Item value="section" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:www.xbmcguide.dk.Areas.NewsArticles.Interfaces.INewsArticlesService">
+      <Item value="GetAllNewsArticles`0" priority="26" />
+      <Item value="CreateNewsArticle`0" priority="26" />
+      <Item value="GetNewsArticle`0" priority="53" />
+      <Item value="SaveNewsArticle`0" priority="26" />
+      <Item value="DeleteNewsArticle`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:www.xbmcguide.dk.DbNewsArticles">
+      <Item value="Heading" priority="77" />
+      <Item value="Body" priority="55" />
+      <Item value="ModifiedDate" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:www.xbmcguide.dk.TblNewsArticles">
+      <Item value="CreatedDate" priority="26" />
+      <Item value="ModifiedDate" priority="26" />
+      <Item value="UserId" priority="26" />
+      <Item value="ImagePath" priority="195" />
+      <Item value="Body" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="RenderAction`0" priority="26" />
+      <Item value="TextArea`0" priority="27" />
+      <Item value="TextAreaFor`2" priority="27" />
+      <Item value="Raw`0" priority="50" />
+      <Item value="RenderPartial`0" priority="22" />
+      <Item value="Action`0" priority="55" />
+      <Item value="Partial`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:www.xbmcguide.dk.ViewNewsArticles">
+      <Item value="ImagePath" priority="22" />
+      <Item value="Body" priority="50" />
+      <Item value="Id" priority="22" />
+      <Item value="CreatedDate" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="CreateInstanceFromVirtualPath`0" priority="7" />
+      <Item value="CKEditor" priority="7" />
+      <Item value="Html" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContextBase">
+      <Item value="User" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IPrincipal">
+      <Item value="Identity" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IIdentity">
+      <Item value="IsAuthenticated" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:www.xbmcguide.dk.MenuItem">
+      <Item value="Heading" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:www.xbmcguide.dk.MenuItems">
+      <Item value="NewsArticleId" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewDataDictionary">
+      <Item value="Model" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ASP._Page_Views_Shared__Layout_cshtml">
+      <Item value="ViewData" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewDataDictionary`1">
+      <Item value="Model" priority="49" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

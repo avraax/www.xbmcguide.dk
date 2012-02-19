@@ -1,0 +1,26 @@
+﻿@model www.xbmcguide.dk.TblNewsArticles
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<article>
+    <header>
+        <h1>@Html.DisplayFor(model => model.Heading)</h1>
+    </header>
+<div>
+        @Html.Raw(Model.Body)
+    </div>
+</article>
+@if (Request.IsAuthenticated)
+{
+    <p>
+        Published: @Html.DisplayFor(model => model.Published)
+        <br />
+        Show on frontpage: @Html.DisplayFor(model => model.Frontpage)
+    </p>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Delete", "Delete", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}

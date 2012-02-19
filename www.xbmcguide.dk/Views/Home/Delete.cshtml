@@ -1,0 +1,48 @@
+﻿@model www.xbmcguide.dk.TblNewsArticles
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>TblNewsArticle</legend>
+
+    <div class="display-label">Heading</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Heading)
+    </div>
+
+    <div class="display-label">Body</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Body)
+    </div>
+
+    <div class="display-label">Published</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Published)
+    </div>
+
+    <div class="display-label">Show on frontpage</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Frontpage)
+    </div>
+
+    <div class="display-label">CreatedDate</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CreatedDate)
+    </div>
+
+    <div class="display-label">ModifiedDate</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ModifiedDate)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}

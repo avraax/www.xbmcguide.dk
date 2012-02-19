@@ -1,0 +1,152 @@
+﻿html
+{
+    height: 100%;
+}
+
+body
+{
+    background: url("/Content/Images/bg.png") #bed1e2 repeat-x;
+    font-size: .85em;
+    font-family: "Trebuchet MS" , Verdana, Helvetica, Sans-Serif;
+    color: #14334e;
+}
+
+.page
+{
+    width: 900px;
+    min-height: 300px;
+    text-align: left; /*** Because we centered the text in body we have to move the text back to left aligning ***/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    float: left;
+}
+
+#MenuContentSpacer 
+{
+    float: left;
+    width: 100%;
+    height: 20px;
+    background-color: #f9fbfc;
+    border-radius: 4px 0 0 0;
+    -webkit-border-radius: 4px 0 0 0;
+    -moz-border-radius: 4px 0 0 0;
+}
+
+#Content {
+    float: left;
+    background-color: #f9fbfc;
+}
+
+#ContentLeft
+{
+    float: left;
+    width: 605px;
+    padding: 0px 30px 15px 25px;
+    border-right: 1px #cccccc solid;
+}
+
+#ContentRight
+{
+    float: right;
+    width: 219px;
+    min-height: 250px;
+    padding: 0px 10px 0px 10px;
+}
+a:link
+{
+    color: #034af3;
+    text-decoration: underline;
+}
+
+a:visited
+{
+    color: #505abc;
+}
+
+a:hover
+{
+    color: #1d60ff;
+    text-decoration: none;
+}
+
+a:active
+{
+    color: #12eb87;
+}
+
+footer 
+{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1, h2, h3, h4, h5, h6
+{
+    font-size: 1.5em;
+    color: #000;
+}
+
+h1
+{
+    font-size: 2em;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+h2
+{
+    padding: 0 0 10px 0;
+}
+
+h3
+{
+    font-size: 1.2em;
+}
+
+h4
+{
+    font-size: 1.1em;
+}
+
+h5, h6
+{
+    font-size: 1em;
+}
+
+#TextLogo
+{
+    font-size: 70px;
+    font-style: italic;
+    margin-left: 3px;
+    margin-top: 5px;
+    margin-bottom: -8px;
+}
+
+#TextLogo1stPart
+{
+    color: #85c226;
+}
+
+#TextLogo2stPart
+{
+    color: #bed1e2;
+}
+
+footer, #footer
+{
+    color: #8c8c8c;
+    line-height: normal;
+    font-size: .9em;
+}
+
+.cf
+{
+    clear: both;
+}
+
+.ui-autocomplete-loading {
+     background : url('/Scripts/indicator.gif') right center no-repeat;
+}

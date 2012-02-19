@@ -1,0 +1,54 @@
+﻿article {
+    padding-bottom: 10px;
+}
+
+h2.ArticleHeading
+{
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 1px solid #cccccc;
+}
+
+article header {
+    width: 100%;
+}
+
+article header h1, h2 
+{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+a.ArticleHeading
+{
+    color: #85c226;
+    text-decoration: none;
+}
+
+article .ArticleCreated {
+    color: #8c8c8c;
+    font-size: 11px;
+}
+
+article .ArticleAuthor {
+    color: #8c8c8c;
+    font-size: 11px;
+}
+
+article .PublishInfo
+{
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+article div p
+{
+    margin-top: 0px;
+}
+
+article footer
+{
+    width: 605px;
+    font-style: italic;
+    font-size: 11px;
+}
