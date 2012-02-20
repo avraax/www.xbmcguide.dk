@@ -1,68 +1,67 @@
 <Configuration>
   <RecentFiles>
     <RecentFiles>
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Javascript/d:ckfinder/f:config.js" caret="469" fromTop="13" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Javascript/d:ckfinder/f:ckfinder.js" caret="16808" fromTop="0" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Properties/f:AssemblyInfo.cs" caret="855" fromTop="18" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Javascript/d:ckeditor/f:config.js" caret="326" fromTop="10" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/f:Site.css" caret="679" fromTop="17" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/f:Global.asax.cs" caret="0" fromTop="0" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Account/f:Register.cshtml" caret="0" fromTop="0" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Javascript/d:ckfinder/f:config.ascx" caret="951" fromTop="25" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/f:Web.config" caret="868" fromTop="15" />
-      <File id="2756E1B9-215E-43E1-B5E3-181270B2EB1D/d:App_Browsers/f:w3cvalidator.browser" caret="0" fromTop="0" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Delete.cshtml" caret="39" fromTop="0" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Models/f:AccountModels.cs" caret="213" fromTop="9" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/f:XbmcGuide.dbml.layout" caret="0" fromTop="0" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:MenuController.cs" caret="476" fromTop="17" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Interfaces/f:INewsArticlesService.cs" caret="287" fromTop="8" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/f:XbmcGuide.designer.cs" caret="12362" fromTop="16" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/f:XbmcGuide.cs" caret="0" fromTop="0" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Classes/f:NewsArticlesService.cs" caret="1233" fromTop="16" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Layout.cshtml" caret="686" fromTop="19" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:Error.cshtml" caret="152" fromTop="8" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_LogOnPartial.cshtml" caret="360" fromTop="9" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="2596" fromTop="16" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Account/f:ChangePassword.cshtml" caret="543" fromTop="16" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="274" fromTop="11" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/f:XbmcGuide.designer.cs" caret="6592" fromTop="47" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Menu.cshtml" caret="258" fromTop="6" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Helpers/f:StringHelpers.cs" caret="737" fromTop="26" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/f:Global.asax.cs" caret="762" fromTop="13" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="319" fromTop="9" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Scripts/f:Base.js" caret="743" fromTop="19" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Less/f:Base.less.css" caret="1992" fromTop="19" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Scripts/f:jquery-ui-1.8.17.custom.css" caret="0" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:AutoCompleteController.cs" caret="383" fromTop="13" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Interfaces/f:IAutoCompleteService.cs" caret="0" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Layout.cshtml" caret="158" fromTop="5" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Classes/f:AutoCompleteService.cs" caret="554" fromTop="18" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Classes/f:NewsArticlesService.cs" caret="0" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Interfaces/f:INewsArticlesService.cs" caret="74" fromTop="2" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Edit.cshtml" caret="1" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_LogOnPartial.cshtml" caret="30" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Less/f:CleanUp.less.css" caret="920" fromTop="22" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/f:Web.config" caret="1511" fromTop="17" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Create.cshtml" caret="1380" fromTop="4" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Less/f:FormElements.less.css" caret="168" fromTop="7" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Less/f:Article.less.css" caret="415" fromTop="13" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Less/f:Menu.less.css" caret="33" fromTop="1" />
       <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:AccountController.cs" caret="3101" fromTop="6" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:MenuController.cs" caret="476" fromTop="17" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:Error.cshtml" caret="152" fromTop="8" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Account/f:ChangePassword.cshtml" caret="543" fromTop="16" />
       <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Account/f:LogOn.cshtml" caret="0" fromTop="0" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Create.cshtml" caret="277" fromTop="8" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Edit.cshtml" caret="386" fromTop="8" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="228" fromTop="9" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Menu.cshtml" caret="0" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="2826" fromTop="21" />
     </RecentFiles>
     <RecentEdits>
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Javascript/d:ckfinder/f:config.ascx" caret="951" fromTop="25" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="294" fromTop="14" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="39" fromTop="0" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="294" fromTop="4" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="539" fromTop="31" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="612" fromTop="13" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="504" fromTop="14" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="407" fromTop="14" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="539" fromTop="15" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="539" fromTop="10" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="539" fromTop="10" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="539" fromTop="23" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="539" fromTop="18" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="537" fromTop="0" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="501" fromTop="22" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="380" fromTop="18" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="149" fromTop="6" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Menu.cshtml" caret="298" fromTop="9" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="4" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="2742" fromTop="27" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="315" fromTop="11" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="2742" fromTop="12" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:MenuController.cs" caret="495" fromTop="16" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="2596" fromTop="16" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Menu.cshtml" caret="266" fromTop="5" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Layout.cshtml" caret="688" fromTop="19" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Classes/f:NewsArticlesService.cs" caret="1317" fromTop="16" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:MenuController.cs" caret="456" fromTop="17" />
-      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Menu.cshtml" caret="74" fromTop="3" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Scripts/f:Base.js" caret="911" fromTop="10" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Scripts/f:Base.js" caret="911" fromTop="4" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Scripts/f:Base.js" caret="911" fromTop="16" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Scripts/f:Base.js" caret="901" fromTop="4" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Scripts/f:Base.js" caret="901" fromTop="19" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Scripts/f:Base.js" caret="901" fromTop="6" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Scripts/f:Base.js" caret="2" fromTop="1" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Scripts/f:Base.js" caret="906" fromTop="24" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/f:XbmcGuide.designer.cs" caret="16551" fromTop="16" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Interfaces/f:IAutoCompleteService.cs" caret="166" fromTop="6" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Classes/f:AutoCompleteService.cs" caret="554" fromTop="18" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Scripts/f:Base.js" caret="567" fromTop="13" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:AutoCompleteController.cs" caret="764" fromTop="14" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Layout.cshtml" caret="662" fromTop="10" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Layout.cshtml" caret="267" fromTop="6" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Layout.cshtml" caret="1461" fromTop="31" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Scripts/f:Base.js" caret="743" fromTop="19" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Content/d:Less/f:Base.less.css" caret="1992" fromTop="19" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:AutoCompleteController.cs" caret="559" fromTop="17" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Details.cshtml" caret="274" fromTop="11" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="2599" fromTop="14" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Shared/f:_Menu.cshtml" caret="258" fromTop="6" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="2599" fromTop="12" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="2814" fromTop="24" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/f:Global.asax.cs" caret="771" fromTop="13" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Helpers/f:StringHelpers.cs" caret="0" fromTop="0" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Helpers/f:StringHelpers.cs" caret="736" fromTop="1" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Helpers/f:StringHelpers.cs" caret="737" fromTop="26" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Views/d:Home/f:Index.cshtml" caret="319" fromTop="9" />
+      <File id="B0582130-816A-4804-908D-D648D4E07D8C/d:Controllers/f:HomeController.cs" caret="2656" fromTop="14" />
     </RecentEdits>
   </RecentFiles>
   <CompletionStatisticsManager>
@@ -70,7 +69,7 @@
       <Item value="News" priority="59" />
       <Item value="ModelState" priority="31" />
       <Item value="XbmcGuideDataContext" priority="53" />
-      <Item value="List" priority="31" />
+      <Item value="List" priority="95" />
       <Item value="News`0" priority="31" />
       <Item value="MultiSelectList`0" priority="31" />
       <Item value="NewsArticles`0" priority="84" />
@@ -86,7 +85,7 @@
       <Item value="dk" priority="80" />
       <Item value="XbmcGuideDataContext`0" priority="26" />
       <Item value="Classes" priority="22" />
-      <Item value="newsArticlesService" priority="32" />
+      <Item value="newsArticlesService" priority="96" />
       <Item value="DbNewsArticles`0" priority="241" />
       <Item value="_newsArticlesService" priority="159" />
       <Item value="_xbmcDatabase" priority="95" />
@@ -97,7 +96,7 @@
       <Item value="View`0" priority="95" />
       <Item value="ActionResult`0" priority="65" />
       <Item value="TblNewsArticles`0" priority="143" />
-      <Item value="ViewNewsArticles`0" priority="123" />
+      <Item value="ViewNewsArticles`0" priority="155" />
       <Item value="DateTime`0" priority="63" />
       <Item value="new" priority="31" />
       <Item value="RouteValueDictionary" priority="28" />
@@ -115,13 +114,28 @@
       <Item value="indexer" priority="31" />
       <Item value="using" priority="30" />
       <Item value="MenuItem`0" priority="22" />
-      <Item value="item" priority="31" />
+      <Item value="item" priority="95" />
       <Item value="_Menu" priority="60" />
       <Item value="MenuItems`0" priority="80" />
       <Item value="ViewData" priority="63" />
       <Item value="this" priority="31" />
       <Item value="Model" priority="63" />
       <Item value="Menu`0" priority="27" />
+      <Item value="Stylesheet.less.css" priority="22" />
+      <Item value="a" priority="31" />
+      <Item value="AutoComplete" priority="56" />
+      <Item value="x" priority="63" />
+      <Item value="SearchAutoComplete" priority="59" />
+      <Item value="Heading" priority="22" />
+      <Item value="SearchAutoComplete`0" priority="63" />
+      <Item value="string" priority="159" />
+      <Item value="String`0" priority="31" />
+      <Item value="NewsArticlesService" priority="29" />
+      <Item value="select" priority="31" />
+      <Item value="p" priority="31" />
+      <Item value="Json`0" priority="31" />
+      <Item value="JsonRequestBehavior`0" priority="63" />
+      <Item value="SearchAutoCompleteResult`0" priority="31" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:www.xbmcguide.dk.XbmcGuideDataContext">
       <Item value="NewsArticles" priority="27" />
@@ -130,6 +144,8 @@
       <Item value="ViewNewsArticles" priority="27" />
       <Item value="MenuItems" priority="54" />
       <Item value="Menus" priority="27" />
+      <Item value="SearchAutoCompletes" priority="27" />
+      <Item value="SearchAutoComplete`0" priority="26" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Data.Linq.Table`1">
       <Item value="ToList`1" priority="80" />
@@ -147,10 +163,16 @@
       <Item value="hr" priority="5" />
       <Item value="target" priority="6" />
       <Item value="h1" priority="5" />
-      <Item value="div" priority="18" />
-      <Item value="style" priority="5" />
+      <Item value="div" priority="72" />
+      <Item value="style" priority="17" />
       <Item value="h2" priority="5" />
       <Item value="section" priority="5" />
+      <Item value="id" priority="35" />
+      <Item value="span" priority="11" />
+      <Item value="class" priority="29" />
+      <Item value="cf" priority="5" />
+      <Item value="float" priority="6" />
+      <Item value="script" priority="5" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:www.xbmcguide.dk.Areas.NewsArticles.Interfaces.INewsArticlesService">
       <Item value="GetAllNewsArticles`0" priority="26" />
@@ -188,6 +210,7 @@
       <Item value="Body" priority="50" />
       <Item value="Id" priority="22" />
       <Item value="CreatedDate" priority="27" />
+      <Item value="Heading" priority="108" />
     </ItemStatistics>
     <ItemStatistics item="RazorTransitionCompletionContext">
       <Item value="CreateInstanceFromVirtualPath`0" priority="7" />
@@ -217,6 +240,106 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Web.Mvc.ViewDataDictionary`1">
       <Item value="Model" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="background" priority="5" />
+      <Item value="url" priority="4" />
+      <Item value="aliceblue" priority="4" />
+      <Item value="repeat-x" priority="4" />
+      <Item value="TextLogo" priority="4" />
+      <Item value="size" priority="3" />
+      <Item value="font-size" priority="17" />
+      <Item value="font-style" priority="17" />
+      <Item value="italic" priority="18" />
+      <Item value="h1" priority="11" />
+      <Item value="TextLogo1stPart" priority="4" />
+      <Item value="color" priority="5" />
+      <Item value="none" priority="6" />
+      <Item value="hover" priority="4" />
+      <Item value="underline" priority="6" />
+      <Item value="time" priority="5" />
+      <Item value="article" priority="23" />
+      <Item value="margin-top" priority="17" />
+      <Item value="margin-bottom" priority="23" />
+      <Item value="padding-bottom" priority="5" />
+      <Item value="ContentLeft" priority="9" />
+      <Item value="float" priority="48" />
+      <Item value="ContentRight" priority="9" />
+      <Item value="right" priority="6" />
+      <Item value="display" priority="5" />
+      <Item value="block" priority="6" />
+      <Item value="left" priority="20" />
+      <Item value="height" priority="35" />
+      <Item value="html" priority="5" />
+      <Item value="min-height" priority="5" />
+      <Item value="cke_files_list" priority="4" />
+      <Item value="clear" priority="11" />
+      <Item value="both" priority="13" />
+      <Item value="inherit" priority="4" />
+      <Item value="auto" priority="25" />
+      <Item value="margin" priority="5" />
+      <Item value="background-color" priority="11" />
+      <Item value="width" priority="41" />
+      <Item value="footer" priority="11" />
+      <Item value="margin-left" priority="11" />
+      <Item value="margin-right" priority="5" />
+      <Item value="Search" priority="9" />
+      <Item value="Content" priority="9" />
+      <Item value="header" priority="11" />
+      <Item value="MenuWrapper" priority="4" />
+      <Item value="MenuContentSpacer" priority="4" />
+      <Item value="border-bottom" priority="5" />
+      <Item value="solid" priority="6" />
+      <Item value="div" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="OrderBy`2" priority="26" />
+      <Item value="OrderByDescending`2" priority="22" />
+      <Item value="Where`1" priority="26" />
+      <Item value="Distinct`1" priority="26" />
+      <Item value="Max`1" priority="22" />
+      <Item value="Take`1" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:www.xbmcguide.dk.ViewNewsArticlesFrontpage">
+      <Item value="CreatedDate" priority="26" />
+      <Item value="Heading" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedEnumerable`1">
+      <Item value="ToList`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:www.xbmcguide.dk.Areas.NewsArticles.Classes.NewsArticlesService">
+      <Item value="GetAllNewsArticles`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="22" />
+      <Item value="ToSeoUrl`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="80" />
+      <Item value="Select`2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:www.xbmcguide.dk.SearchAutoComplete">
+      <Item value="SearchContent" priority="50" />
+      <Item value="Result" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:www.xbmcguide.dk.Areas.AutoComplete.Classes.AutoCompleteService">
+      <Item value="GetSearchResult`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="ToList`1" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Join`0" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.JsonRequestBehavior">
+      <Item value="AllowGet" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="request" priority="10" />
+      <Item value="item" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.UrlParameter">
+      <Item value="Optional" priority="26" />
     </ItemStatistics>
   </CompletionStatisticsManager>
   <NAntValidationSettings>

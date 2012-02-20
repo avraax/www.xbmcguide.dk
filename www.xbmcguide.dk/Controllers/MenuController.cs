@@ -15,8 +15,7 @@ namespace www.xbmcguide.dk.Controllers
             _xbmcDatabase = new XbmcGuideDataContext();
             var model = _xbmcDatabase.Menus.ToList();
 
-            return PartialView("~/Views/Shared/_Menu.cshtml", model);
+        return PartialView("~/Views/Shared/_Menu.cshtml", model);
         }
-
     }
 }
