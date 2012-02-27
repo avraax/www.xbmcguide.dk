@@ -10,3 +10,16 @@ C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\EntityFramework.xml
 C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\obj\Debug\ResolveAssemblyReference.cache
 C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\obj\Debug\www.xbmcguide.dk.dll
 C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\obj\Debug\www.xbmcguide.dk.pdb
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\FluentNHibernate.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\NHibernate.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\www.xbmcguide.dk.Core.Models.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\www.xbmcguide.dk.Core.Models.pdb
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\FluentNHibernate.pdb
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\Castle.Core.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\Iesi.Collections.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\NHibernate.ByteCode.Castle.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\Castle.Core.xml
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\Iesi.Collections.pdb
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\NHibernate.ByteCode.Castle.xml
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\Castle.Windsor.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk\bin\Castle.Windsor.xml

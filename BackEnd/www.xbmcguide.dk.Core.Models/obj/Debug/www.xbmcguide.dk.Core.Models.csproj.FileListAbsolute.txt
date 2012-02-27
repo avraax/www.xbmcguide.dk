@@ -1,0 +1,7 @@
+C:\Projects\Sites\www.xbmcguide.dk\BackEnd\www.xbmcguide.dk.Core.Models\bin\Debug\www.xbmcguide.dk.Core.Models.dll
+C:\Projects\Sites\www.xbmcguide.dk\BackEnd\www.xbmcguide.dk.Core.Models\bin\Debug\www.xbmcguide.dk.Core.Models.pdb
+C:\Projects\Sites\www.xbmcguide.dk\BackEnd\www.xbmcguide.dk.Core.Models\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Sites\www.xbmcguide.dk\BackEnd\www.xbmcguide.dk.Core.Models\obj\Debug\www.xbmcguide.dk.Core.Models.dll
+C:\Projects\Sites\www.xbmcguide.dk\BackEnd\www.xbmcguide.dk.Core.Models\obj\Debug\www.xbmcguide.dk.Core.Models.pdb
+C:\Projects\Sites\www.xbmcguide.dk\BackEnd\www.xbmcguide.dk.Core.Models\bin\Debug\FluentNHibernate.dll
+C:\Projects\Sites\www.xbmcguide.dk\BackEnd\www.xbmcguide.dk.Core.Models\bin\Debug\FluentNHibernate.pdb

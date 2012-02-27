@@ -12,10 +12,11 @@ namespace www.xbmcguide.dk.Controllers
 
         public ActionResult Comments(int articleId)
         {
-            _xbmcDatabase = new XbmcGuideDataContext();
-            var model = _xbmcDatabase.GetNewsArticleComments(articleId).ToList();
+            //_xbmcDatabase = new XbmcGuideDataContext();
+            //var model = _xbmcDatabase.GetNewsArticleComments(articleId).ToList();
 
-            return PartialView("~/Views/Shared/_Comments.cshtml", model);
+            //return PartialView("~/Views/Shared/_Comments.cshtml", model);
+            return null;
         }
     }
 }

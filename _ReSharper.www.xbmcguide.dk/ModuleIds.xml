@@ -1,4 +1,10 @@
 <Modules>
   <Module PersistentId="B0582130-816A-4804-908D-D648D4E07D8C" ModuleId="www.xbmcguide.dk" />
-  <Module PersistentId="2756E1B9-215E-43E1-B5E3-181270B2EB1D" ModuleId="Forum" />
+  <Module PersistentId="5EC14877-C408-4448-8BA4-67C534A7B6D5" ModuleId="www.xbmcguide.dk.Core.Models" />
+  <Module PersistentId="26B5DF97-AE3F-4B73-97C0-55FCB1A5F5E5" ModuleId="www.xbmcguide.dk.Core.Data" />
+  <Module PersistentId="21DE579C-4A1C-4E42-97F6-E437E9DB76F5" ModuleId="www.xbmcguide.dk.BusinessLogic" />
+  <Module PersistentId="11AB6F51-06A3-4DC6-8400-49BA794FAB9F" ModuleId="www.xbmcguide.dk.BackEnd.Tests" />
+  <Module PersistentId="AF0A219C-23DA-4AC7-B41B-3CE43226F9F6" ModuleId="ww.xbmcguide.dk.NHibernate" />
+  <Module PersistentId="1B556587-861C-4410-9966-4B7837C59A6D" ModuleId="www.xbmcguide.dk.BusinessLogic.Interfaces" />
+  <Module PersistentId="15D15D98-B440-458A-873A-8272F2C7F185" ModuleId="www.xbmcguide.dk.NHibernate" />
 </Modules>

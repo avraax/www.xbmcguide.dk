@@ -1,0 +1,9 @@
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk.BusinessLogic.Interfaces\bin\Debug\www.xbmcguide.dk.BusinessLogic.Interfaces.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk.BusinessLogic.Interfaces\bin\Debug\www.xbmcguide.dk.BusinessLogic.Interfaces.pdb
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk.BusinessLogic.Interfaces\bin\Debug\www.xbmcguide.dk.Core.Models.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk.BusinessLogic.Interfaces\bin\Debug\www.xbmcguide.dk.Core.Models.pdb
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk.BusinessLogic.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk.BusinessLogic.Interfaces\obj\Debug\www.xbmcguide.dk.BusinessLogic.Interfaces.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk.BusinessLogic.Interfaces\obj\Debug\www.xbmcguide.dk.BusinessLogic.Interfaces.pdb
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk.BusinessLogic.Interfaces\bin\Debug\FluentNHibernate.dll
+C:\Projects\Sites\www.xbmcguide.dk\www.xbmcguide.dk.BusinessLogic.Interfaces\bin\Debug\FluentNHibernate.pdb
